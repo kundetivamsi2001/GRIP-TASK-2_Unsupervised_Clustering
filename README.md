@@ -1,10 +1,15 @@
-# GRIP-TASK-2_Unsupervised_Clustering
-TASK 2 : Prediction using Unsupervised ML
+##GRIP-TASK-2_Unsupervised_Clustering
+##TASK 2 : Prediction using Unsupervised ML
 Clustering is the technique in Unsupervised learning,which will group the similar datapoints into clusters.
 Kmeans is the clustering technique we had used to divide the entire iris dataset into optimum number of clusters.
 
 Clustering means making groups or making clusters of similar observations. It groups the data into K clusters.
- ***************How does K-Means clustering algorithm work?
+
+ ##How does K-Means clustering algorithm work?
+ 
+ <p align="center">
+<img src="https://th.bing.com/th/id/R.fa296d30c33ba20c8625173d23a8b703?rik=rB4yW%2bgfEQGpEA&riu=http%3a%2f%2fi.stack.imgur.com%2frWH0K.png&ehk=kD%2btdiDJDu28TMYIJ4TVP%2bMECwMXLZxlimxrG%2fplyKU%3d&risl=&pid=ImgRaw&r=0" />
+</p>
 
 1: K points randomly selected as cluster centers(centroids).
 
